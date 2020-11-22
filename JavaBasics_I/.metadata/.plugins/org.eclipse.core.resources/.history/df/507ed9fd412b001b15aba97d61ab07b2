@@ -1,0 +1,14 @@
+package mainMethod;
+
+public class mainMethod {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+	void sayHi() {
+		system.out.println("Hi");
+	}
+}

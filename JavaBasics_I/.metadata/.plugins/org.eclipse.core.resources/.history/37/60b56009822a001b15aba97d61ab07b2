@@ -1,0 +1,16 @@
+package stringToInteger;
+
+public class stringToInteger {
+
+	public static void main(String[] args) {
+
+		String s = "102";
+//		Integer.parseInt(s);  using the Integer.parseInt keyword changes a string into an integer
+		System.out.println(Integer.parseInt(s) + 4);
+		
+		
+		int n = Integer.parseInt(s)
+
+	}
+
+}

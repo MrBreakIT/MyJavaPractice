@@ -1,0 +1,16 @@
+package breakStatements;
+
+public class BreakStatements {
+
+	public static void main(String[] args) {
+
+//		break; //break cannot be used outside a loop or switch
+
+		while (true) {
+			System.out.println("Hello!");
+			break;
+		}
+
+	}
+
+}

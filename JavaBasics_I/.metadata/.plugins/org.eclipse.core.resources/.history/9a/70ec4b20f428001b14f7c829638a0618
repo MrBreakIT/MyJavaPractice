@@ -1,0 +1,22 @@
+package roflCOPTERanimated;
+
+public class ROFLCopterAnimated {
+
+	public static void main(String[] args) {
+		// abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*()_+-=|~\`{}[]:";'<>?,./ 
+		
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		
+		
+	}
+
+}

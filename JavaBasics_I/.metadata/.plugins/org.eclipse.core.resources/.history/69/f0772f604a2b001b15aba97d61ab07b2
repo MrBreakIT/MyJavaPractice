@@ -1,0 +1,10 @@
+package modulusOperator;
+
+public class modulusOperator {
+
+	public static void main(String... args) {
+
+		System.out.println(1779 % 2);
+
+	}
+}

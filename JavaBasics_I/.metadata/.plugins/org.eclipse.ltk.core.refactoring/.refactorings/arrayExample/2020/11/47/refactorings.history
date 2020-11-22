@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;arrayExample.arrayExampleZombieKiller&apos; to &apos;ArrayExampleZombieKiller&apos;&#x0D;&#x0A;- Original project: &apos;arrayExample&apos;&#x0D;&#x0A;- Original element: &apos;arrayExample.arrayExampleZombieKiller&apos;&#x0D;&#x0A;- Renamed element: &apos;arrayExample.ArrayExampleZombieKiller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;arrayExampleZombieKiller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;arrayExample{arrayExampleZombieKiller.java[arrayExampleZombieKiller" matchStrategy="1" name="ArrayExampleZombieKiller" qualified="false" references="true" similarDeclarations="true" stamp="1605990714369" textual="false" version="1.0"/>
+</session>

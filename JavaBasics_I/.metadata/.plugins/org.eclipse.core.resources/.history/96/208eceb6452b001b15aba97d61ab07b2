@@ -1,0 +1,17 @@
+package mainMethod;
+
+public class mainMethod {
+
+	public static void main(String[] args) { // main
+		System.out.println(args[0]);
+		System.out.println(args[1]);
+		System.out.println(args[2]);
+		System.out.println("***************");
+
+		if (args[0].equals("Hey")) {
+			System.out.println("there!");
+		} else if (args[1].equals("Hey")) {
+			System.out.println("mi amigo!");
+		}
+	}
+}

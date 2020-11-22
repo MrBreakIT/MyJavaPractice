@@ -1,0 +1,11 @@
+package stringToInteger;
+
+public class stringToInteger {
+
+	public static void main(String[] args) {
+
+		String s = "102";
+
+	}
+
+}

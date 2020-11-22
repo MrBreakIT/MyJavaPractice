@@ -1,0 +1,17 @@
+package arrayExample;
+
+public class arrayExampleZombieKiller {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to the Zombie Killer program!");
+
+		String backpack[] = { "Shotgun", "AR-15", "Sniper" };
+		String zombies[] = { "Close-range zombie", "Mid-range zombie", "Long-range zombie" };
+
+		System.out.println("Backpack weapons!");
+		System.out.print(backpack[0] + ",");
+		System.out.print(backpack[1]);
+		System.out.print(backpack[2]);
+	}
+
+}

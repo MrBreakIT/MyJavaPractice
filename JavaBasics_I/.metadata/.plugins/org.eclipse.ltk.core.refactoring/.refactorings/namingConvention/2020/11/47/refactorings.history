@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;namingConvention.namingConventions&apos; to &apos;NamingConventions&apos;&#x0D;&#x0A;- Original project: &apos;namingConvention&apos;&#x0D;&#x0A;- Original element: &apos;namingConvention.namingConventions&apos;&#x0D;&#x0A;- Renamed element: &apos;namingConvention.NamingConventions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;namingConventions&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;namingConvention{namingConventions.java[namingConventions" matchStrategy="1" name="NamingConventions" qualified="false" references="true" similarDeclarations="true" stamp="1605990671988" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package arrays2D_LotteryTicket;
+
+public class arrays2D_LotteryTicket {
+
+	public static void main(String[] args) {
+
+		int[][] lotteryCard = { {20,15,7},
+								{8,7,19}
+		};
+
+	}
+
+}

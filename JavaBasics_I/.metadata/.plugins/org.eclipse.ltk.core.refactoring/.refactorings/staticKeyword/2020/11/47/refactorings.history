@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;staticKeyword.staticKeyword&apos; to &apos;StaticKeyword&apos;&#x0D;&#x0A;- Original project: &apos;staticKeyword&apos;&#x0D;&#x0A;- Original element: &apos;staticKeyword.staticKeyword&apos;&#x0D;&#x0A;- Renamed element: &apos;staticKeyword.StaticKeyword&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;staticKeyword&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;staticKeyword{staticKeyword.java[staticKeyword" matchStrategy="1" name="StaticKeyword" qualified="false" references="true" similarDeclarations="true" stamp="1605990891625" textual="false" version="1.0"/>
+</session>

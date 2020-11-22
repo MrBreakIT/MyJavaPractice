@@ -1,0 +1,17 @@
+package logicalOperators;
+
+public class LogicalOperators {
+
+	public static void main(String[] args) {
+
+		// &&, ||, !
+
+		boolean a = true || true;
+		boolean b = true && false;
+
+		System.out.println(a);
+		System.out.println(b);
+
+	}
+
+}

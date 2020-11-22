@@ -1,0 +1,15 @@
+package forLoop;
+
+public class forLoop {
+
+	public static void main(String[] args) {
+
+		String dogs = "I love dogs!";
+		
+		
+		
+		System.out.println("I love dogs!");
+
+	}
+
+}

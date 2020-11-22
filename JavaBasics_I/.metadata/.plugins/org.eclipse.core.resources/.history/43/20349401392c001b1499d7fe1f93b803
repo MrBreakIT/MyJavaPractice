@@ -1,0 +1,24 @@
+package staticKeyword;
+
+public class staticKeyword {
+
+	// static variable----- When var is declared static, a single copy is created
+	// and shared among all objects at class level. Essentially these are global
+	// variables
+	static int a = 10;
+	static int b;
+
+	// static block
+	static {
+		System.out.println("Static block initialized.");
+		b = a * 4;
+	}
+
+	public static void main(String[] args) {
+		System.out.println("from the main");
+		System.out.println("Value of a: " + a);
+		System.out.println("Value of b: " + b);
+
+	}
+
+}

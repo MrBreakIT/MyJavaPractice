@@ -1,0 +1,21 @@
+package stringToInteger;
+
+public class stringToInteger {
+
+	public static void main(String[] args) {
+
+		String s = "102";
+//		Integer.parseInt(s);  using the Integer.parseInt keyword changes a string into an integer
+		System.out.println(Integer.parseInt(s) + 4);
+
+		int n = Integer.parseInt("3");
+		System.out.println("3" + 4); // this simply places the string "3" next to integer 4
+		System.out.println(n + 4);
+
+		int x = 8;
+		System.out.println(x + 1);
+		System.out.println(Integer.toString(x) + 1);
+
+	}
+
+}

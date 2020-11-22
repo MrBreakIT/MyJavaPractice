@@ -1,0 +1,18 @@
+package logicalOperators;
+
+public class LogicalOperators {
+
+	public static void main(String[] args) {
+
+		// &&, ||, !
+
+		int a = 3;
+		int b = 4;
+
+		boolean c = (a > b) && true;
+
+		System.out.println(c);
+
+	}
+
+}

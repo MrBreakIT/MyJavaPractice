@@ -1,0 +1,11 @@
+package typeCasting;
+
+public class typeCasting {
+
+	public static void main(String[] args) {
+
+		int a = 5;
+		int b = (int) 5.5; // put the type you want variable to become
+	}
+
+}

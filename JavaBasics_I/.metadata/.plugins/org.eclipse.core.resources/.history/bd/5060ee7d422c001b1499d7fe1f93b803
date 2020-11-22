@@ -1,0 +1,16 @@
+package initializationDeclaration;
+
+public abstract class InitializationDeclaration {
+
+	public static void main(String... args) {
+
+		String pizza1 = "pineapple"; // this is initialization
+		String pizza2; // this is declaration
+		pizza2 = "bbq"; // this is assignment
+
+	}
+
+	public abstract void eatPizza(); // changing method from static TO abstract tells Java there might not be code
+										// inside ()
+
+}

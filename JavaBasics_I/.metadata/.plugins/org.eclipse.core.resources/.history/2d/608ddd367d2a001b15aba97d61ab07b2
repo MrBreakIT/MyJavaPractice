@@ -1,0 +1,11 @@
+package forLoop;
+
+public class forLoop {
+
+	public static void main(String[] args) {
+
+		System.out.println("I love dogs!");
+
+	}
+
+}
