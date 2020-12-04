@@ -1,0 +1,2 @@
+module arrayObjects {
+}
